@@ -19,6 +19,9 @@ public class NewTest {
 	 @AfterTest
 	 public void bing (){
 		 System.out.println("pgl");
-	 
+	 }
+	 @AfterTest
+	 public void bing2 (){
+		 System.out.println("pgl2");
   }
 }
